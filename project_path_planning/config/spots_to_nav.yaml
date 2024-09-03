@@ -1,0 +1,23 @@
+nav_to_point:
+  ros__parameters:
+    corner1:
+      position:
+        position_x: 0.32468141745797213
+        position_y: 0.4976864688575837
+      orientation:
+        orientation_z: 0.6963944239245551
+        orientation_w: 0.717659255027612
+    pedestrian:
+      position:
+        position_x: -0.3316843889410394
+        position_y: 1.1714464047114277
+      orientation:
+        orientation_z: 0.9917168615213747
+        orientation_w: 0.128443242617876
+    corner2:
+      position:
+        position_x: -1.0266024268651406
+        position_y: 0.2287965169702132
+      orientation:
+        orientation_z: -0.9115661946846886
+        orientation_w: 0.411153344517683
